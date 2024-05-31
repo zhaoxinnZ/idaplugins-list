@@ -473,6 +473,8 @@ Labeless provides easy to use dynamic dumping tool, which supports automatic on-
 
 * [YaCo](https://github.com/DGA-MI-SSI/YaCo) : Collaboration Plugin : when enabled, an unlimited number of users can work simultaneously on the same binary. Any modification done by any user is synchronized through git version control. It has been initially released at [SSTIC 2017](https://www.sstic.org/2017/presentation/YaCo/)
 
+* [YaraForge](https://github.com/zhaoxinnZ/YaraForge): A plugin that integrated capa explorer's scanning result and using mkYARA's rule generation logic to automatic export yara rules.
+
 * [Zynamics BinDiff](http://www.zynamics.com/bindiff.html): BinDiff is a comparison tool for binary files, that assists vulnerability researchers and engineers to quickly find differences and similarities in disassembled code.
 
 ## Commercial Plugins
